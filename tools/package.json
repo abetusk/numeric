@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "commander": "^9.4.0",
+    "uglify-js": "^3.17.0",
+    "uglifyjs": "^2.4.11"
+  }
+}
